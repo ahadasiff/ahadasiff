@@ -1,7 +1,7 @@
   ## Hi there 👋 My Name is Syed Ahad
 
 <!--
-**ahadasiff/ahadasiff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Syed Ahad/Syed Ahad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
